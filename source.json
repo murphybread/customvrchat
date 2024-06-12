@@ -3,7 +3,6 @@
     "id":"com.murphybread.example-listing",
     "url":"https://murphybread.github.io/customvrchat/index.json",
     "author":{
-        "email":"nargene@gmail.com",
         "name":"VRChat",
     },
     "description":"Example listing of VRChat packages custom",
