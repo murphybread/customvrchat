@@ -1,13 +1,12 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Custom Murphy Vrcahat Package lists",
+    "id":"com.murphybread.example-listing",
     "url":"https://murphybread.github.io/customvrchat/index.json",
     "author":{
-        "email":"developer@vrchat.com",
+        "email":"nargene@gmail.com",
         "name":"VRChat",
-        "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Example listing of VRChat packages custom",
     "infoLink":{
         "url":"https://github.com/murphybread/customvrchat",
         "text":"View on GitHub"
