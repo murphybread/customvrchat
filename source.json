@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/murphybread/customvrchat",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
