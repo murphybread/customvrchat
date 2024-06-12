@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://murphybread.github.io/customvrchat/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
